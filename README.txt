@@ -1,6 +1,6 @@
 This repository contains:
 1) My practice code for Test Automation (using Selenium & Pytest) and Python Logic (algorithms, data structures, and error handling).
-The project is divided into two parts: UI tests for `saucedemo.com` and standalone Python scripts for backend-like logic.
+This part is divided into two parts: UI tests for `saucedemo.com` and standalone Python scripts for backend-like logic.
 How to Run
 1.  Install requirements:
     ```bash
