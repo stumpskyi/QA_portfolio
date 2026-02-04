@@ -36,7 +36,7 @@ ________________________________________________________________________________
 
 **ID:** 2
 
-**Title:** `[Security]` User profile picture accepts non-image files
+**Title:** `[Security]` User profile picture accepts non-image files (no content type validation)
 
 **Severity:** Critical
 
