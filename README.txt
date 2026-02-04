@@ -1,22 +1,22 @@
 This repository contains:
 
-1) My practice code for Test Automation (using Selenium & Pytest) and Python Logic (algorithms, data structures, and error handling).
-This part is divided into two: UI tests for `saucedemo.com` and standalone Python scripts for backend-like logic.
-How to Run
+1) My practice code for test automation (using Selenium & Pytest) and python logic (algorithms, data structures, and error handling).
+This part is divided into two: UI tests for `saucedemo.com` and standalone python scripts for backend-like logic.
+How to run
 1.  Install requirements:
     ```bash
     pip install selenium pytest
     ```
-2.  Run Selenium Tests:
+2.  Run selenium tests:
     ```bash
     pytest
     ```
-3.  Run Logic Scripts:
+3.  Run logic scripts:
     ```bash
     python inventory_management_system.py
     ```
 
-2) API Automation (Postman)
+2) API automation (Postman)
 I automated the workflow for the Simple Books API to practice backend testing.
 The collection simulates a real user flow rather than just isolated requests.
 How to Run:
