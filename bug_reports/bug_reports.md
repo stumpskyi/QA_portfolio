@@ -24,7 +24,7 @@
 The account is created, and the user is successfully logged in. HTTP status code is `200 OK`. No email verification link is sent.
 
 ### Expected result
-Registration should be rejected. The system should display an **"Enter a valid email address"** notification. Expected HTTP status code is `400 Bad Request`.
+Registration should be rejected. The system should display the **"Enter a valid email address"** notification. Expected HTTP status code is `400 Bad Request`.
 
 ### Attachments
 ![email_validation_bug_1](https://github.com/user-attachments/assets/d2f21bcc-3260-4c60-be2b-add107aa8f12)
